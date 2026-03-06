@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMap.unity
+    guid: 7639bd88673581d4487d42df0342b60f
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 0cf6c950043c392469cfd062645c135d
+  - enabled: 1
+    path: Assets/Scenes/SewagePlant.unity
+    guid: 313f336514e04de49b75bdc8a47be17b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 8c78a4b5afb2cb5469497c379aef4c85, type: 2}
